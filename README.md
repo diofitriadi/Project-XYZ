@@ -1,3 +1,3 @@
 # Project-XYZ
 
-- Home Page
+- Home page
